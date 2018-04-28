@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyAlbumView">
+        <attr name="image_total_text" format="string"/>
+        <attr name="image_total_font_sise" format="float"/>
+    </declare-styleable>
+</resources>
